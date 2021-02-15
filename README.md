@@ -1,6 +1,7 @@
 # kubeflow-jupyter
 A custom Jupyer Lab container for Kubeflow
 
+based on: https://github.com/ivan-sparq/kubeflow-jupyter
 
 ## Extensions:
 
